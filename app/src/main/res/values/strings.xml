@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ofertas</string>
+    <string name="normal.channel.id">channel.id.notification.normal</string>
+    <string name="normal.channel.name">GO Sharp</string>
+</resources>

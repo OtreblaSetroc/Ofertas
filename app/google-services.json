@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "304445122749",
+    "firebase_url": "https://fir-aaf22.firebaseio.com",
+    "project_id": "fir-aaf22",
+    "storage_bucket": "fir-aaf22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304445122749:android:93a44da3b8c7848e",
+        "android_client_info": {
+          "package_name": "com.example.sergi.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304445122749-aqte1ln9co918jg4nbd28uamtt54c7hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sergi.firebase",
+            "certificate_hash": "931b60c1905cd6397be404c22988f4271c3ad9a2"
+          }
+        },
+        {
+          "client_id": "304445122749-inh3d5fqhgighp925nbdfkvmhj0uha23.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "304445122749-inh3d5fqhgighp925nbdfkvmhj0uha23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5byHiGUX5vYx1UlCkm4BtU_Ef51-fNaE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304445122749-inh3d5fqhgighp925nbdfkvmhj0uha23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304445122749:android:8abcdc3c1d4c2db2",
+        "android_client_info": {
+          "package_name": "com.example.sergi.ofertas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304445122749-pasrg5uk34lb89gu2g73bcfisl7hk9sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sergi.ofertas",
+            "certificate_hash": "931b60c1905cd6397be404c22988f4271c3ad9a2"
+          }
+        },
+        {
+          "client_id": "304445122749-inh3d5fqhgighp925nbdfkvmhj0uha23.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "304445122749-inh3d5fqhgighp925nbdfkvmhj0uha23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5byHiGUX5vYx1UlCkm4BtU_Ef51-fNaE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304445122749-inh3d5fqhgighp925nbdfkvmhj0uha23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
